@@ -16,7 +16,7 @@ The project combines exploratory data analysis with machine learning techniques 
 ### 📊 Dataset Description
 The dataset contains a mix of numerical and categorical variables describing different aspects of residential properties, including structural features, location-related attributes, and property conditions. These features provide a broad view of the factors that may impact house prices.
 
-View dataset: [here](https://github.com/Lexi-Nguyen/House-Price-Prediction/blob/6d9caaf015cd5c62a2f4a77ac7624a19d631399f/house_price.csv)
+View Dataset: [here](https://github.com/Lexi-Nguyen/House-Price-Prediction/blob/6d9caaf015cd5c62a2f4a77ac7624a19d631399f/house_price.csv)
 
 ---
 
@@ -26,6 +26,8 @@ View dataset: [here](https://github.com/Lexi-Nguyen/House-Price-Prediction/blob/
 - Applied **Min-Max scaling** to normalise numerical variables  
 - Performed exploratory analysis to identify trends and relationships between features and house prices  
 - Split the dataset into **70% training** and **30% validation** sets  
+
+View Analysis: [here](https://github.com/Lexi-Nguyen/House-Price-Prediction/blob/a0e7f590115a9a36c3f34cf13306809be33fb240/House%20Price%20Prediction.ipynb)
 
 ---
 
