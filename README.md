@@ -48,6 +48,8 @@ Model performance was evaluated using:
 
 The **MLP Regressor with two hidden layers (128, 64)** achieved the best overall performance, producing the lowest prediction error and demonstrating strong ability to capture complex patterns in housing data.
 
+<img width="527" height="670" alt="Image" src="https://github.com/user-attachments/assets/1a8c6c99-b0a4-4a07-824c-35a6be0dd8b5" />
+
 ---
 
 ### 🔍 Key Insights
